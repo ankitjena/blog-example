@@ -7,7 +7,7 @@ Backend server of an example blog using voyager-server, GraphQL and Prisma.
 Clone the repository
 
 ```
-git clone https://github.com/supriyanta/blog-example.git
+git clone https://github.com/ankitjena/blog-example.git
 ```
 Change directory
 
